@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Biswajit  
-**Full Stack Developer | DevOps Engineer | Platform Engineer**  
+**Full Stack Developer | DevOps Engineer**  
 
 Welcome to my GitHub profile! I'm passionate about building scalable, high-performance systems that power modern applications. With expertise in **NextJS, NestJS, TypeScript, AWS, Kubernetes, and Terraform**, I design and deliver end-to-end solutions that solve complex problems and drive innovation.  
 
@@ -13,11 +13,8 @@ I specialize in bridging the gap between development and operations, ensuring se
 - Craft clean, maintainable, and scalable code with **TypeScript** and **Node.js**.  
 
 ### **DevOps & Infrastructure Automation**  
-- Automate CI/CD pipelines using **GitHub Actions, Docker, Kubernetes, and Terraform**.  
+- Automate CI/CD pipelines using **GitHub Actions, Docker, Kubernetes, Ansible and Terraform**.  
 - Streamline infrastructure management with **AWS, Ansible, and Terraform**.  
-- Optimize deployment processes, reducing deployment times by **40%** through automation.  
-
-### **Platform Engineering**  
 - Design and deploy **cloud-native platforms** on **AWS** using **Kubernetes** and **Docker**.  
 - Ensure system reliability and performance with monitoring tools like **Prometheus** and **Grafana**.
   
