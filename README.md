@@ -43,7 +43,7 @@ I bring a unique combination of **Full Stack Development, DevOps, and Platform E
 
 ## 📫 **Let's Connect!**  
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out:  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/biswajitdev)  
+- **LinkedIn:** [Biswajit Das](https://www.linkedin.com/in/biswajitdev)  
 
 ---
 
